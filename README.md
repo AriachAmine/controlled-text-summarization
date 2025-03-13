@@ -1,15 +1,3 @@
----
-title: Controlled Text Summarization
-emoji: 📈
-colorFrom: yellow
-colorTo: purple
-sdk: gradio # VERY IMPORTANT: Specifies the framework (gradio, streamlit, docker, static)
-sdk_version: 5.20.1 # Optional but recommended: Specify the SDK version
-app_file: main.py # VERY IMPORTANT: The main Python file to run
-pinned: false # Optional: Whether to pin the Space in your profile
-license: mit # Optional: The license of your project (e.g., mit, apache-2.0, agpl-3.0)
----
-
 # Creative Text Summarization with Style Control
 
 A machine learning system that summarizes text in different stylistic variations (formal, informal, humorous, poetic) while preserving the content.
